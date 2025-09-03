@@ -13,7 +13,7 @@ export const HeroSection = () => {
           <div className="mb-8 opacity-0 animate-fade-in">
             <div className="relative w-48 h-48 mx-auto group">
               <img
-                src="public/profile/profile.png" // Replace with your actual image path
+                src="/profile/profile.png" // Replace with your actual image path
                 alt="Akshay Makhija"
                 className="w-full h-full rounded-full object-cover border-4 border-primary/20 shadow-xl 
                           transition-all duration-500 ease-out
