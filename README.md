@@ -1,12 +1,67 @@
-# React + Vite
+Akshay Makhija | Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Creating impactful web applications
 
-Currently, two official plugins are available:
+🚀 Live Demo
+https://akshaytech.vercel.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+👨‍💻 About Me
+Master's-educated Full-Stack Developer with 2+ years of experience building scalable web applications. Currently seeking opportunities to create impactful software solutions.
 
-## Expanding the ESLint configuration
+✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Responsive Design - Optimized for all devices
+Interactive Timeline - Professional experience and education journey
+Project Showcase - Live demos and GitHub links
+Skills Filter - Frontend, Backend, and Tools categorization
+Contact Form - EmailJS integration for direct messaging
+Dark/Light Mode - Adaptive design system
+
+🛠️ Tech Stack
+
+Framework: React 18
+Build Tool: Vite
+Styling: Tailwind CSS
+Icons: Lucide React
+Animations: CSS3 Transitions & Keyframes
+Form Handling: EmailJS
+Deployment: Vercel
+
+📁 Project Structure
+├── src/
+│   ├── components/
+│   │   ├── HeroSection.jsx
+│   │   ├── AboutSection.jsx
+│   │   ├── ExperienceTimeline.jsx
+│   │   ├── SkillsSection.jsx
+│   │   ├── ProjectsSection.jsx
+│   │   └── ContactSection.jsx
+│   ├── lib/
+│   │   └── utils.js
+│   └── styles/
+│       └── index.css
+└── public/
+    ├── profile/
+    └── projects/
+    
+🚦 Getting Started
+bash# Clone repository
+git clone https://github.com/AkiMakhija/portfolio.git
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+
+# Build for production
+npm run build
+📧 Contact
+
+Email: akshayhmakhija@gmail.com
+Phone: +1 (857) 891-3889
+LinkedIn: akshay-makhija
+GitHub: AkiMakhija
+
+
+Currently available for full-time opportunities!
