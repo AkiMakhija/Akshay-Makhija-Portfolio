@@ -2,6 +2,15 @@ import { GraduationCap, Briefcase, Calendar } from "lucide-react";
 
 export const ExperienceTimeline = () => {
  const timelineItems = [
+  {
+    type: "experience",
+    title: "Software Engineer",
+    organization: "IpserLab",
+    location: "Boston, MA",
+    date: "Jun 2025 - Present",
+    description: "I worked as a Software Engineer where I designed a production monitoring app using JavaScript and Django that increased operational efficiency by 35% and reduced response times from 30 to 6 minutes.",
+    icon: Briefcase,
+  },
    {
      type: "education",
      title: "Master of Science in Computer Software Engineering",
